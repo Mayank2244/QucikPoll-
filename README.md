@@ -104,3 +104,4 @@ After every pull: `docker compose up --build` and `... manage.py migrate`.
 | `relation ... does not exist` | Run `migrate` |
 | Windows: `exec ... no such file` | `git config --global core.autocrlf input`, then re-clone |
 | `startapp ... conflicts with the name of an existing module` | The folder already exists. Delete the empty folder and run `startapp` again |
+# QucikPoll-
