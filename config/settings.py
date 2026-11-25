@@ -15,10 +15,8 @@ INSTALLED_APPS = [
     "django.contrib.messages",
     "django.contrib.staticfiles",
     "rest_framework",
-    # Add your apps here when you create them, e.g.:
-    # "accounts",   # Mayank (Day 1)
-    # "polls",      # Mayank + Ravinder
-    # "web",        # Rishi
+    "accounts",
+    "polls",
 ]
 
 MIDDLEWARE = [
